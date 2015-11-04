@@ -4,3 +4,20 @@
 > - Page Object pattern
 > - Gulp build system
 > - A small test on an angular js based web app.
+
+### Proposed Project structure
+<pre>
+└───Protractor-Jasmine-template
+    ├───node_modules
+    |
+    ├───page_objects
+    |
+    ├───specs
+    |
+    ├───test_results
+    |
+    ├───gulpfile.js
+    |
+    ├───protractor_conf.js
+
+</pre>
