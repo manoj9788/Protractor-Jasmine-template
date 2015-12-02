@@ -21,3 +21,5 @@
     ├───protractor_conf.js
 
 </pre>
+
+If your team already use Selenium WebDriver using Java, then dont forget to check [ngWebDriver](https://github.com/paul-hammant/ngWebDriver) out.
