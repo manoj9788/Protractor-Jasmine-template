@@ -1,8 +1,9 @@
-// conf.js
 exports.config = {
-   seleniumServerJar: "node_modules/protractor/selenium/selenium-server-standalone-2.47.1.jar",
+   directConnect: true,
+   //If you want to use a particular seleniumserver then you may change the path accordingly. However using directConntect is faster.
+   //seleniumServerJar: "node_modules/protractor/selenium/selenium-server-standalone-2.47.1.jar",
     specs: ['specs/*Spec.js'],
-    baseUrl: 'http://google.com',
+    baseUrl: 'http://google.com/',
 
     framework: 'jasmine2',
 
