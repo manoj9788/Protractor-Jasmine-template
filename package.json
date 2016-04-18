@@ -1,0 +1,26 @@
+{
+  "name": "protractor_example",
+  "version": "0.0.1",
+  "description": "An example Protractor project that makes use of page objects...",
+  "dependencies": {},
+  "keywords": [
+    "protractor",
+    "page",
+    "object",
+    "tests",
+    "automation",
+    "webdriver"
+  ],
+  "author": "manoj9788@gmail.com",
+  "devDependencies": {
+    "chance": "^0.7.5",
+    "gulp": "^3.9.0",
+    "gulp-protractor": "^1.0.0",
+    "jasmine-reporters": "^2.0.0",
+    "jasmine-spec-reporter": "^2.4.0",
+    "protractor": "3.1.1",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-screenshot-reporter": "0.1.7",
+    "selenium-webdriver": "2.52.0"
+  }
+}
